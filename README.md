@@ -11,6 +11,6 @@
 9. I'm currently self-studying data engineering to develop much cooler things after getting back from work.
 10. To contact me, feel free to send me an e-mail. sanspareilsmyn@gmail.com
 ## My prior projects
-- Implementation of Deep-Learning-Based Active User Detection(AUD) Layer : <https://github.com/sanspareilsmyn/lab-intern-project>
-- Data Acquisition and Processing Algorithm of Embedded Vision Sensor : <https://github.com/sanspareilsmyn/Samsung-summer-project>
-- 16-bit Single Cycle CPU with Verilog : <https://github.com/sanspareilsmyn/digital-logic-project>
+- [Implementation of Deep-Learning-Based Active User Detection(AUD) Layer](https://github.com/sanspareilsmyn/lab-intern-project)
+- [Data Acquisition and Processing Algorithm of Embedded Vision Sensor](https://github.com/sanspareilsmyn/Samsung-summer-project)
+- [16-bit Single Cycle CPU with Verilog](https://github.com/sanspareilsmyn/digital-logic-project)
