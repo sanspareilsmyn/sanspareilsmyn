@@ -13,5 +13,4 @@
 ## My prior projects
 - [Friends Recommendation System with Star Wars Social Network](https://github.com/sanspareilsmyn/kaggle-starwars)
 - [Implementation of Deep-Learning-Based Active User Detection(AUD) Layer](https://github.com/sanspareilsmyn/lab-intern-project)
-- [Data Acquisition and Processing Algorithm of Embedded Vision Sensor](https://github.com/sanspareilsmyn/Samsung-summer-project)
 - [16-bit Single Cycle CPU with Verilog](https://github.com/sanspareilsmyn/digital-logic-project)
