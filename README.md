@@ -11,6 +11,7 @@
 9. I'm currently self-studying data engineering to develop much cooler things after getting back from work.
 10. To contact me, feel free to send me an e-mail. sanspareilsmyn@gmail.com
 ## My prior projects
+- [News Title Autocompletion and News Summarization with RNN and Transfer Learning](https://github.com/sanspareilsmyn/news-project)
 - [Friends Recommendation System with Star Wars Social Network](https://github.com/sanspareilsmyn/kaggle-starwars)
 - [Implementation of Deep-Learning-Based Active User Detection(AUD) Layer](https://github.com/sanspareilsmyn/lab-intern-project)
 - [Data Acquisition and Processing Algorithm of Embedded Vision Sensor](https://github.com/sanspareilsmyn/samsung-summer-project)
