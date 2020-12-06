@@ -11,7 +11,7 @@
 9. I'm currently self-studying data engineering to develop much cooler things after getting back from work.
 10. To contact me, feel free to send me an e-mail. sanspareilsmyn@gmail.com
 ## My prior projects
-- [Dataset processing - "Is Tourism of Seoul Disabled-Friendly?"](https://www.kaggle.com/sangminyoon/tourism-in-seoul-for-disabled)
+- [Dataset processing - "Is Tourism In Seoul Disabled-Friendly?"](https://www.kaggle.com/sangminyoon/tourism-in-seoul-for-disabled)
 - [Income Prediction with Second-Level Learning Model and Stacking](https://www.kaggle.com/sangminyoon/stacking-second-level-learning-model)
 - [Machine Learning based Job Recommendation System - "Programmers"](https://github.com/sanspareilsmyn/job-recommendation)
 - [News Title Autocompletion and Transformer-based News Summarization](https://github.com/sanspareilsmyn/news-project)
