@@ -11,6 +11,7 @@
 9. I'm currently self-studying data engineering to develop much cooler things after getting back from work.
 10. To contact me, feel free to send me an e-mail. sanspareilsmyn@gmail.com, linkedin.com/in/sangmin-yoon/
 ## My prior projects
+- [Pythonic Implementation of "Graphcut Textures: Image and Video Synthesis Using Graph Cuts"](https://github.com/sanspareilsmyn/graphcut-textures)
 - [Dataset processing - "Is Tourism In Seoul Disabled-Friendly?"](https://www.kaggle.com/sangminyoon/tourism-in-seoul-for-disabled)
 - [Income Prediction with Second-Level Learning Model and Stacking](https://www.kaggle.com/sangminyoon/stacking-second-level-learning-model)
 - [Machine Learning based Job Recommendation System - "Programmers"](https://github.com/sanspareilsmyn/job-recommendation)
