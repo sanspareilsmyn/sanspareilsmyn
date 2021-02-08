@@ -8,7 +8,7 @@
 6. I was an Undergraduate Research Scholarship Student of Global Technology Center(GTC), Samsung Electronics. (2019.03 ~ 2020.02)
 7. Since March 2020, I've been working in Global Technology Center(GTC), Samsung Electronics.
 8. At work, I'm developing machine-learning-based embedded vision test module with cool colleagues.
-9. I'm currently self-studying data engineering to develop much cooler things after getting back from work.
+9. I'm currently piling up my tech stacks to develop much cooler things after getting back from work.
 10. To contact me, feel free to send me an e-mail. sanspareilsmyn@gmail.com or sm129.yoon@samsung.com
 ## My prior projects
 - [AWS Solution Architect Associate 중요 개념 정리](https://github.com/sanspareilsmyn/aws-saa)
