@@ -11,6 +11,7 @@
 9. I'm currently piling up my tech stacks to develop much cooler things after getting back from work. (For the things I can handle with, check out my portfolio repo.)  
 10. To contact me, feel free to send me an e-mail. sanspareilsmyn@gmail.com or sm129.yoon@samsung.com
 ## My prior projects
+- [Certified Kubernetes Administrator(CKA) 중요 개념 정리](https://github.com/sanspareilsmyn/cka-preparation)
 - [AWS Solution Architect Associate 중요 개념 정리](https://github.com/sanspareilsmyn/aws-saa)
 - [Pythonic Implementation of "Graphcut Textures: Image and Video Synthesis Using Graph Cuts"](https://github.com/sanspareilsmyn/graphcut-textures)
 - [Dataset processing - "Is Tourism In Seoul Disabled-Friendly?"](https://www.kaggle.com/sangminyoon/tourism-in-seoul-for-disabled)
