@@ -11,7 +11,7 @@
 9. I'm currently piling up my tech stacks to develop much cooler things after getting back from work. (For the things I can handle with, check out my portfolio repo.)  
 10. To contact me, feel free to send me an e-mail. sanspareilsmyn@gmail.com or sm129.yoon@samsung.com
 ## My prior projects
-- [Developers Recruitment Post Crawling with Golang](https://www.kaggle.com/sangminyoon/devrecruitment)
+- [Developers Recruitment Post Crawling Web Development with Golang](https://www.kaggle.com/sangminyoon/devrecruitment)
 - [Cryptocurrency Historical Data Trading In Upbit](https://www.kaggle.com/sangminyoon/cryptocurrency-historical-data-trading-in-upbit)
 - [Crashing 1000 LeetCode Algorithm Problems & Learned Techniques](https://github.com/sanspareilsmyn/leetcode-1000)
 - [Certified Kubernetes Administrator(CKA) 중요 개념 정리](https://github.com/sanspareilsmyn/cka-preparation)
