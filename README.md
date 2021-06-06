@@ -10,6 +10,10 @@
 8. At work, I'm developing machine-learning-based embedded vision test module with cool colleagues.
 9. I'm currently piling up my tech stacks to develop much cooler things after getting back from work. (For the things I can handle with, check out my portfolio repo.)  
 10. To contact me, feel free to send me an e-mail. sanspareilsmyn@gmail.com or sm129.yoon@samsung.com
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=boxerkiter)](https://solved.ac/{boxerkiter})
+
 ## My prior projects
 - [Developers Recruitment Post Crawling Web Development with Golang](https://www.kaggle.com/sangminyoon/devrecruitment)
 - [Cryptocurrency Historical Data Trading In Upbit](https://www.kaggle.com/sangminyoon/cryptocurrency-historical-data-trading-in-upbit)
