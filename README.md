@@ -6,7 +6,7 @@
 5. I was an Undergraduate Student Research Intern in Mobile Communication Laboratory, Seoul National University. (2018.12 ~ 2019.03) (Advisor - Prof. KwangBok-Lee)
 6. I was an Undergraduate Research Scholarship Student of Global Technology Center(GTC), Samsung Electronics. (2019.03 ~ 2020.02)
 7. I was Jr. Machine Learning Engineer in Global Technology Center(GTC), Samsung Electronics. (2020.03 ~ 2021.06)
-8. Since July 2021, I've joined Kakao Cloud Telemetrey Division to work as a Cloud Data Engineer.
+8. Since July 2021, I've joined Kakao Cloud Telemetry Division to work as a Cloud Data Engineer.
 9. To contact me, feel free to send me an e-mail. sanspareilsmyn@gmail.com
 
 [![Solved.ac
