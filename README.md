@@ -13,11 +13,10 @@
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=boxerkiter)](https://solved.ac/{boxerkiter})
 
 ## My prior projects
-- [Sangmin's Dev Blog](https://velog.io/@sanspareilsmyn)
+- [Certified Kubernetes Administrator(CKA) Example Code](https://github.com/sanspareilsmyn/cka-prep)
 - [Developers Recruitment Post Crawling Web Development with Golang](https://www.kaggle.com/sangminyoon/devrecruitment)
 - [Cryptocurrency Historical Data Trading In Upbit](https://www.kaggle.com/sangminyoon/cryptocurrency-historical-data-trading-in-upbit)
 - [Crashing 1000 LeetCode Algorithm Problems & Learned Techniques](https://github.com/sanspareilsmyn/leetcode-1000)
-- [Certified Kubernetes Administrator(CKA) 중요 개념 정리](https://github.com/sanspareilsmyn/cka-preparation)
 - [AWS Solution Architect Associate 중요 개념 정리](https://github.com/sanspareilsmyn/aws-saa)
 - [Pythonic Implementation of "Graphcut Textures: Image and Video Synthesis Using Graph Cuts"](https://github.com/sanspareilsmyn/graphcut-textures)
 - [Dataset processing - "Is Tourism In Seoul Disabled-Friendly?"](https://www.kaggle.com/sangminyoon/tourism-in-seoul-for-disabled)
